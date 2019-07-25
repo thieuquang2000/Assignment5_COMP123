@@ -291,18 +291,22 @@ namespace Assignment5
                 if (Bmi < 18.5)
                 {
                     Result.Text = Bmi + "\n Underweight." + "\n Please eat more food.";
+                    Result.BackColor = Color.LightGray;
                 }
                 else if (Bmi > 18.5 && Bmi < 24.9)
                 {
                     Result.Text = Bmi + "\n Normal." + "\n Please maintain your ideal weight";
+                    Result.BackColor = Color.Green;
                 }
                 else if (Bmi > 25 && Bmi < 29.9)
                 {
                     Result.Text = Bmi + "\n Overweight." + "\n Please eat less and do more exercise";
+                    Result.BackColor = Color.Orange;
                 }
                 else if (Bmi > 30)
                 {
                     Result.Text = Bmi + "\n OBESE." + "\n Please go see a doctor to have some consultation.";
+                    Result.BackColor = Color.Red;
                 }
             }
             else if(NumericButton.Checked)
@@ -316,18 +320,22 @@ namespace Assignment5
                 if (Bmi < 18.5)
                 {
                     Result.Text = Bmi + "\n Underweight." + "\n Please eat more food.";
+                    Result.BackColor = Color.LightGray;
                 }
                 else if (Bmi > 18.5 && Bmi < 24.9)
                 {
                     Result.Text = Bmi + "\n Normal." + "\n Please maintain your ideal weight";
+                    Result.BackColor = Color.Green;
                 }
                 else if (Bmi > 25 && Bmi < 29.9)
                 {
-                    Result.Text = Bmi + "\n Overewight." + "\n Please eat less and do more exercise";
+                    Result.Text = Bmi + "\n Overweight." + "\n Please eat less and do more exercise";
+                    Result.BackColor = Color.Orange;
                 }
                 else if (Bmi > 30)
                 {
                     Result.Text = Bmi + "\n OBESE." + "\n Please go see a doctor to have some consultation.";
+                    Result.BackColor = Color.Red;
                 }
             }
         }

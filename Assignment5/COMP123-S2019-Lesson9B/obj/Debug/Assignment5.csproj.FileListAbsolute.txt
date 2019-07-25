@@ -8,3 +8,13 @@ H:\COMP123\COMP123-S2019-Lesson9B-master\COMP123-S2019-Lesson9B\obj\Debug\COMP12
 H:\COMP123\COMP123-S2019-Lesson9B-master\COMP123-S2019-Lesson9B\obj\Debug\COMP123-S2019-Lesson9B.pdb
 H:\COMP123\COMP123-S2019-Lesson9B-master\COMP123-S2019-Lesson9B\obj\Debug\Assignment5.CalculatorForm.resources
 H:\COMP123\COMP123-S2019-Lesson9B-master\COMP123-S2019-Lesson9B\obj\Debug\Assignment5.csprojAssemblyReference.cache
+H:\COMP123\Assignment5\COMP123-S2019-Lesson9B\bin\Debug\COMP123-S2019-Lesson9B.exe.config
+H:\COMP123\Assignment5\COMP123-S2019-Lesson9B\bin\Debug\COMP123-S2019-Lesson9B.exe
+H:\COMP123\Assignment5\COMP123-S2019-Lesson9B\bin\Debug\COMP123-S2019-Lesson9B.pdb
+H:\COMP123\Assignment5\COMP123-S2019-Lesson9B\obj\Debug\Assignment5.csprojAssemblyReference.cache
+H:\COMP123\Assignment5\COMP123-S2019-Lesson9B\obj\Debug\Assignment5.CalculatorForm.resources
+H:\COMP123\Assignment5\COMP123-S2019-Lesson9B\obj\Debug\Assignment5_COMP123.Properties.Resources.resources
+H:\COMP123\Assignment5\COMP123-S2019-Lesson9B\obj\Debug\Assignment5.csproj.GenerateResource.cache
+H:\COMP123\Assignment5\COMP123-S2019-Lesson9B\obj\Debug\Assignment5.csproj.CoreCompileInputs.cache
+H:\COMP123\Assignment5\COMP123-S2019-Lesson9B\obj\Debug\COMP123-S2019-Lesson9B.exe
+H:\COMP123\Assignment5\COMP123-S2019-Lesson9B\obj\Debug\COMP123-S2019-Lesson9B.pdb
